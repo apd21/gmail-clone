@@ -2,7 +2,7 @@ import './Mail.css';
 
 const Mail = () => {
     return (
-        <div>
+        <div className='mail'>
             
         </div>
     );
